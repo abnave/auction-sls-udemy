@@ -4,7 +4,7 @@ const schema = {
             type: 'object',
             properties: {
                 amount: {
-                    type: 'string'
+                    type: 'number'
                 }
             },
             required: ['amount']
